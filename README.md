@@ -1,4 +1,5 @@
-### Hi there 👋
+### Howdy People 👋
+I am Saumya, learning front-end devlopment  
 
 <!--
 **Saumya-07/Saumya-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
