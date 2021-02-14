@@ -14,9 +14,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/saumya-gupta-905b271b7/](https://www.linkedin.com/in/saumya-gupta-905b271b7/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
