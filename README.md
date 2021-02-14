@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **saumyagupta720@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn]
-https://www.linkedin.com/in/saumya-gupta-905b271b7/
+- 📄 Know about my experiences https://www.linkedin.com/in/saumya-gupta-905b271b7/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
