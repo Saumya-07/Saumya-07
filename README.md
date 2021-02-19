@@ -1,9 +1,10 @@
 <h1 align="center">Howdy 👋, I'm Saumya</h1>
 <h3 align="center">An enthusiastic and passionate frontend developer from India</h3>
 
+
+<!---
 <p align='left'>For Fun- </br>
 When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promise!"</p>
-<!---
 - 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saumya-07](https://github.com/Saumya-07)
