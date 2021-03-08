@@ -1,33 +1,94 @@
 <h1 align="center">Howdy 👋, I'm Saumya</h1>
-<h3 align="center">An enthusiastic and passionate frontend developer from India</h3>
-
-
 <!---
+<h3 align="center">An enthusiastic and passionate frontend developer from India</h3>
 <p align='left'>For Fun- </br>
 When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promise!"</p>
-- 🌱 I’m currently learning **Javascript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Saumya-07](https://github.com/Saumya-07)
-
-- 📝I write articles on [https://dev.to/saumya07](https://dev.to/saumya07)
-
-- 💬 Ask me about **Front-end development**
-
-- 📫 How to reach me **saumyagupta720@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/saumya07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="saumya07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https:saumya-gupta-905b271b7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https:saumya-gupta-905b271b7" height="30" width="40" /></a>
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saumya-07&show_icons=true&locale=en&layout=compact" alt="saumya-07" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saumya-07&show_icons=true&locale=en" alt="saumya-07" /></p>
 --->
 
+
+<p>
+  <em>
+    I am a Junior pursuing computer engineering in India. <br>
+    20 years of living a comical life! <br>
+    <b>A friendly Neighbourhood Developer</b>🤓 and a <b>Learning Enthusiast,</b>&nbsp;👩‍💻 </br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> 🚀and 
+    <b>excel.</b> 🏅 <br>
+    I Love <b>Front-end Development</b> :D <br>
+  </em>  
+</p>
+<br>
+
+- I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+- I’m  currently learning **Web Development** With Javascript💪
+- Goals 🌱  for 2021: Build aweome projects and Contribute to Open Source
+- I belive, a perfect cup of coffee ☕ can be the ultimate solution for any stress
+- **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴 </br>
+<!---You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.---!
+!-- <img alt="GIF" src="medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.--!>
+<br>
+
+## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+<!--
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗖++</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/cpp.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮script</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>HTML</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>CSS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Adobe XD</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/adobe-xd.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+--->
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumya-07&langs_count=10&theme=tokyonight&layout=compact" alt="Saumya-07 :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Saumya-07&show_icons=true&theme=tokyonight&layout=compact" alt="Saumya-07 :: Profile Stats" /></p>
+
+<i>Random dev joke for you!</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+If you're still reading, why not follow me ?? Let's Connect !!
+<h3 align='center'> 🤝🏻 Connect with Me </h3>
+<p align="center">
+&nbsp; <a href="https://twitter.com/username/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/username/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/username/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:saumyagupta720@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+⭐️ From [Saumya-07](https://github.com/Saumya-07)
