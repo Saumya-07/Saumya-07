@@ -8,6 +8,7 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
 
 <p>
   <em>
+    <img src="https://user-images.githubusercontent.com/68998355/110340114-e7d17380-804e-11eb-8265-14c72d71932e.png" align="right" width="300">
     I am a Junior pursuing computer engineering in India. <br>
     20 years of living a comical life! <br>
     <b>A friendly Neighbourhood Developer</b>🤓 and a <b>Learning Enthusiast,</b>&nbsp;👩‍💻 </br>who is <b>obsessed</b>
@@ -15,7 +16,8 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
     <b>grow</b> 🚀and 
     <b>excel.</b> 🏅 <br>
     I Love <b>Front-end Development</b> :D <br>
-  </em>  
+  </em>
+  
 </p>
 <br>
 
@@ -28,11 +30,11 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
 !-- <img alt="GIF" src="medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.--!>
 <br>
 
-## Tech Stack
--HTML,CSS,Javascript</br>
--C++,Python
--Git,Visual Studio Code
--Adobe XD
+<h3>Tech Stack</h3>
+ HTML,CSS,Javascript,
+ C++,Python,
+ Git,Visual Studio Code,
+ Adobe XD
 
 <!--
 <table>
@@ -87,12 +89,12 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
 <!--- <i>Random dev joke for you!</i><br><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>--->
 
-If you're still reading, why not follow me ?? Let's Connect !!
-<h3 align='center'> 🤝🏻 Connect with Me </h3>
+If you're still reading, why not follow me ?? Let's Connect !! <img src='https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif' width='100' height='50' > 
+<!---<h3 align='center'> Connect with Me </h3>--->
 <p align="center">
-&nbsp; <a href="https://twitter.com/username/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/username/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/username/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://twitter.com/saumya727" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/__saumyagupta/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/saumya-gupta-905b271b7/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:saumyagupta720@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
