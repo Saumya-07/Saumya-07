@@ -28,7 +28,12 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
 !-- <img alt="GIF" src="medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.--!>
 <br>
 
-## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+## Tech Stack
+-HTML,CSS,Javascript</br>
+-C++,Python
+-Git,Visual Studio Code
+-Adobe XD
+
 <!--
 <table>
   <tbody>
@@ -73,13 +78,13 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
 --->
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumya-07&langs_count=10&theme=tokyonight&layout=compact" alt="Saumya-07 :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumya-07&langs_count=10&theme=dracula&layout=compact" alt="Saumya-07 :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Saumya-07&show_icons=true&theme=tokyonight&layout=compact" alt="Saumya-07 :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Saumya-07&show_icons=true&theme=dracula&layout=compact" alt="Saumya-07 :: Profile Stats" /></p>
 
-<i>Random dev joke for you!</i><br>
+> <i>Random dev joke for you!</i><br><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 If you're still reading, why not follow me ?? Let's Connect !!
