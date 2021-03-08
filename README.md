@@ -14,7 +14,7 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
     <b>A friendly Neighbourhood Developer</b>🤓 and a <b>Learning Enthusiast,</b>&nbsp;👩‍💻 </br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> 🚀and 
-    <b>excel.</b> 🏅 <br>
+    <b>excel</b> 🏅 <br>
     I Love <b>Front-end Development</b> :D <br>
   </em>
   
