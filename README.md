@@ -52,7 +52,7 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
 </td>
     <td><img src="https://user-images.githubusercontent.com/68998355/110584953-0c843300-8196-11eb-903a-43ef81835338.png" width="40" height="40">
 </td>
-    <td><img src="https://user-images.githubusercontent.com/68998355/110584949-0b530600-8196-11eb-8874-6e76fd5b3ddc.png" width="40" height="40">
+    <td><img src="https://user-images.githubusercontent.com/68998355/110588474-13617480-819b-11eb-9f0e-b0e6416ea79b.png" width="40" height="40">
 </td>
     <td><img src="https://user-images.githubusercontent.com/68998355/110584943-08581580-8196-11eb-9354-6953c266d64e.png" width="40" height="40">
 </td>   
