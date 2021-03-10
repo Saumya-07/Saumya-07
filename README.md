@@ -36,7 +36,7 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
  Git,Visual Studio Code,
  Adobe XD --->
  <table>
-<tr></tr>
+
   <tr>
     <td><img src="https://user-images.githubusercontent.com/68998355/110585038-36d5f080-8196-11eb-8df7-f01dec64686d.png" width="40" height="40">
 </td>
