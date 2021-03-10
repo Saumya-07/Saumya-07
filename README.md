@@ -31,10 +31,39 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
 <br>
 
 <h3>Tech Stack</h3>
- HTML,CSS,Javascript,
+<!--- HTML,CSS,Javascript,
  C++,Python,
  Git,Visual Studio Code,
- Adobe XD
+ Adobe XD --->
+ <table>
+<tr></tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/68998355/110585038-36d5f080-8196-11eb-8df7-f01dec64686d.png" width="40" height="40">
+</td>
+    <td><img src="https://user-images.githubusercontent.com/68998355/110585029-34739680-8196-11eb-9167-3b4b35ca2eee.png" width="40" height="40">
+</td>
+    <td><img src="https://user-images.githubusercontent.com/68998355/110585023-32a9d300-8196-11eb-9663-8f7b06e197e1.png" width="40" height="40">
+</td>
+    <td><img src="https://user-images.githubusercontent.com/68998355/110584968-13ab4100-8196-11eb-86ac-9d67d8205d5e.png" width="40" height="40">
+</td>
+    <td><img src="https://user-images.githubusercontent.com/68998355/110584946-09894280-8196-11eb-9915-af15e12cf9a8.png" width="40" height="40">
+</td>
+    <td><img src="https://user-images.githubusercontent.com/68998355/110584962-1017ba00-8196-11eb-9e31-cefb639f03c3.png" width="40" height="40">
+</td>
+    <td><img src="https://user-images.githubusercontent.com/68998355/110584953-0c843300-8196-11eb-903a-43ef81835338.png" width="40" height="40">
+</td>
+    <td><img src="https://user-images.githubusercontent.com/68998355/110584949-0b530600-8196-11eb-8874-6e76fd5b3ddc.png" width="40" height="40">
+</td>
+    <td><img src="https://user-images.githubusercontent.com/68998355/110584943-08581580-8196-11eb-9354-6953c266d64e.png" width="40" height="40">
+</td>   
+</tr>
+</table>
+  
+
+
+
+
+
 
 <h4 align="center">Top langs :tongue:</h4>
 
