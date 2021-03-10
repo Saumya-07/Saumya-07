@@ -30,7 +30,7 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
 !-- <img alt="GIF" src="medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.--!>
 <br>
 
-<h3>Tech Stack</h3>
+<h4>Tech Stack 🧰</h4>
 <!--- HTML,CSS,Javascript,
  C++,Python,
  Git,Visual Studio Code,
@@ -83,6 +83,8 @@ If you're still reading, why not follow me ?? Let's Connect !! <img src='https:/
 &nbsp; <a href="https://www.instagram.com/__saumyagupta/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/saumya-gupta-905b271b7/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:saumyagupta720@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="Saumya(P)#8073" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/discord.png"  width="50" /></a>
+
 </p>
 
 ⭐️ From [Saumya-07](https://github.com/Saumya-07)
