@@ -1,5 +1,3 @@
-![girl working]
-
 <h1 align="center">Howdy 👋, I'm Saumya</h1>
 <!---
 <h3 align="center">An enthusiastic and passionate frontend developer from India</h3>
