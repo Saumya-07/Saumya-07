@@ -1,3 +1,5 @@
+![girl working]
+
 <h1 align="center">Howdy 👋, I'm Saumya</h1>
 <!---
 <h3 align="center">An enthusiastic and passionate frontend developer from India</h3>
@@ -8,7 +10,7 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
 
 <p>
   <em>
-    <img src="https://user-images.githubusercontent.com/68998355/110340114-e7d17380-804e-11eb-8265-14c72d71932e.png" align="right" width="300">
+    <img src="https://user-images.githubusercontent.com/68998355/110694804-1ac26580-820f-11eb-8bcf-2b93f48bce92.gif" align="right" width="300">
     I am a Junior pursuing computer engineering in India. <br>
     <b>A friendly Neighbourhood Developer</b>🤓 and a <b>Learning Enthusiast,</b>&nbsp;👩‍💻 </br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
