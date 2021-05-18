@@ -43,9 +43,15 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
 </td>
     <td><img src="https://user-images.githubusercontent.com/68998355/110585023-32a9d300-8196-11eb-9663-8f7b06e197e1.png" width="40" height="40">
 </td>
-    <td><img src="https://user-images.githubusercontent.com/68998355/110584968-13ab4100-8196-11eb-86ac-9d67d8205d5e.png" width="40" height="40">
+    <td><img src="https://user-images.githubusercontent.com/68998355/118618576-63833580-b7e1-11eb-9ccc-42db212b7755.png" width="40" height="40">
+</td> 
+    <td><img src="https://user-images.githubusercontent.com/68998355/118618584-641bcc00-b7e1-11eb-872d-523063b73d58.png" width="40" height="40">
+</td> 
+    <td><img src="https://user-images.githubusercontent.com/68998355/118618593-65e58f80-b7e1-11eb-8f96-57e0c4cb484b.png" width="40" height="40">
+</td> 
+    <td><img src="https://user-images.githubusercontent.com/68998355/118618992-cf659e00-b7e1-11eb-95a6-49970e89dd7e.png" width="40" height="40">
 </td>
-    <td><img src="https://user-images.githubusercontent.com/68998355/110584946-09894280-8196-11eb-9915-af15e12cf9a8.png" width="40" height="40">
+    <td><img src="https://user-images.githubusercontent.com/68998355/110584968-13ab4100-8196-11eb-86ac-9d67d8205d5e.png" width="40" height="40">
 </td>
     <td><img src="https://user-images.githubusercontent.com/68998355/110584962-1017ba00-8196-11eb-9e31-cefb639f03c3.png" width="40" height="40">
 </td>
@@ -54,7 +60,8 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
     <td><img src="https://user-images.githubusercontent.com/68998355/110588474-13617480-819b-11eb-9f0e-b0e6416ea79b.png" width="40" height="40">
 </td>
     <td><img src="https://user-images.githubusercontent.com/68998355/110584943-08581580-8196-11eb-9354-6953c266d64e.png" width="40" height="40">
-</td>   
+</td> 
+
 </tr>
 </table>
   
