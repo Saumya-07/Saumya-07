@@ -21,7 +21,7 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
 <br>
 
 - I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- I’m  currently learning **Web Development** With Javascript💪
+- I’m  currently learning **Web Development** With ReactJS💪
 - Goals 🌱  for 2021: Build aweome projects and Contribute to Open Source
 - I belive, a perfect cup of coffee ☕ can be the ultimate solution for any stress
 - **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴 </br>
@@ -47,20 +47,25 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
 </td> 
     <td><img src="https://user-images.githubusercontent.com/68998355/118618584-641bcc00-b7e1-11eb-872d-523063b73d58.png" width="40" height="40">
 </td> 
-    <td><img src="https://user-images.githubusercontent.com/68998355/118618593-65e58f80-b7e1-11eb-8f96-57e0c4cb484b.png" width="40" height="40">
+    <td><img src="https://user-images.githubusercontent.com/68998355/131377483-e9d18e95-602f-4f33-b2fd-b0593fed001d.png" width="40" height="40">
 </td> 
-    <td><img src="https://user-images.githubusercontent.com/68998355/118618992-cf659e00-b7e1-11eb-95a6-49970e89dd7e.png" width="40" height="40">
-</td>
-    <td><img src="https://user-images.githubusercontent.com/68998355/110584968-13ab4100-8196-11eb-86ac-9d67d8205d5e.png" width="40" height="40">
+     <td><img src="https://user-images.githubusercontent.com/68998355/131377060-398ebadc-07a0-4c7d-9f92-117948dfdae4.png" width="55" height="40">
 </td>
     <td><img src="https://user-images.githubusercontent.com/68998355/110584962-1017ba00-8196-11eb-9e31-cefb639f03c3.png" width="40" height="40">
 </td>
+    <td><img src="https://user-images.githubusercontent.com/68998355/131376474-ffe1a8ab-0fe4-4e9c-ab7c-d12629dbf8a8.png" width="30" height="40">
+</td> 
     <td><img src="https://user-images.githubusercontent.com/68998355/110584953-0c843300-8196-11eb-903a-43ef81835338.png" width="40" height="40">
 </td>
     <td><img src="https://user-images.githubusercontent.com/68998355/110588474-13617480-819b-11eb-9f0e-b0e6416ea79b.png" width="40" height="40">
 </td>
     <td><img src="https://user-images.githubusercontent.com/68998355/110584943-08581580-8196-11eb-9354-6953c266d64e.png" width="40" height="40">
 </td> 
+    <td><img src="https://user-images.githubusercontent.com/68998355/118618992-cf659e00-b7e1-11eb-95a6-49970e89dd7e.png" width="40" height="40">
+</td>
+    <td><img src="https://user-images.githubusercontent.com/68998355/110584968-13ab4100-8196-11eb-86ac-9d67d8205d5e.png" width="40" height="40">
+</td>
+    
 
 </tr>
 </table>
