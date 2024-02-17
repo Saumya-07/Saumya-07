@@ -77,7 +77,7 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
 
 </table>
   
-
+<!---
 <h4 align="center">Top langs :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumya-07&langs_count=10&theme=dracula&layout=compact" alt="Saumya-07 :: Top Langs" /></p>
@@ -86,7 +86,7 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Saumya-07&show_icons=true&theme=dracula&layout=compact" alt="Saumya-07 :: Profile Stats" /></p>
 
-<!--- <i>Random dev joke for you!</i><br><br>
+ <i>Random dev joke for you!</i><br><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>--->
 
 If you're still reading, why not follow me ?? 👨‍💻 Let's Connect and create something amazing! ✨!! <img src='https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif' width='auto' height='30' > 
@@ -97,5 +97,6 @@ If you're still reading, why not follow me ?? 👨‍💻 Let's Connect and crea
 &nbsp; <a href="mailto:saumyagupta720@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 
 </p>
+
 
 ⭐️ From [Saumya-07](https://github.com/Saumya-07)
